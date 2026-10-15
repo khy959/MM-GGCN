@@ -1,4 +1,4 @@
-实验在以下环境中进行：
+The experiments are conducted in the following environment:
 
 - igraph: 1.0.0
 - numpy: 2.0.1
